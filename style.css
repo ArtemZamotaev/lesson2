@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(247, 134, 134);
+    font-family: 'MonteCarlo',cursiv e;
+    font-family: 'Monserrat' ,sanse- se rif;
+}
+p{
+    font-family: 'MonteCarlo',cursiv e;
+    font-size: 20px;
+    color: rgb(17, 0, 255);
+}
+li{
+    font-family: 'Monserrat' ,sanse- se rif;
+    color: rgb(60, 255, 0);
+}
+img{
+    border-radius: 100%;
+}
